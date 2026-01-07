@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Launched 202601042259 for learning Node.js",
   "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,4 +14,3 @@
     "express": "^5.2.1"
   }
 }
-
